@@ -111,9 +111,9 @@ Projetado e arquitetado por **Yan Douglas Barbosa**.
 
 ### 📬 Entre em contato para consultorias e projetos estratégicos:
 
-* **LinkedIn:** [linkedin.com/in/yan-douglas](https://www.linkedin.com/in/yan-douglas)
-* **E-mail Corporativo:** [f19411@plasc.org.br](mailto:f19411@plasc.org.br) &bull; [contato.yandouglas@gmail.com](mailto:contato.yandouglas@gmail.com)
-* **GitHub:** [@yandouglas](https://github.com/yandouglas)
+* **LinkedIn:** [linkedin.com/in/yan-douglas](https://www.linkedin.com/in/yan-douglas-barbosa-708112353/)
+* **E-mail Corporativo:** [yan.barbosa@plasc.org.br](yan.barbosa@plasc.org.br) &bull; [yan.programsxz@gmail.com](mailto:yan.programsxz@gmail.com)
+* **GitHub:** [@yandouglas]([https://github.com/yandouglas](https://github.com/yandouglas))
 
 ---
 
